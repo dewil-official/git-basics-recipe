@@ -18,9 +18,9 @@
 
 ## How to make it spicey:
 
-6. Add some peppers. 
-7. Eat & Edit!
-8. After eating , wash the dishes please :)
+7. Add some peppers. 
+8. Eat & Edit!
+9. After eating , wash the dishes please :)
 
 ## Add some random Emojis (because i just learned how to do it):
 
