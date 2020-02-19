@@ -20,3 +20,8 @@
 
 6. Add some peppers. 
 7. Eat!
+
+## Add some random Emojis (because i just learned how to do it):
+
+🐱‍👤🐱‍👤🐱‍👤🐱🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🧁🧃🏴‍☠️🤍
+
