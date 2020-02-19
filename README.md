@@ -20,3 +20,4 @@
 
 6. Add some peppers. 
 7. Eat!
+8. After eating , wash the dishes please :)
