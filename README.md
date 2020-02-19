@@ -19,3 +19,4 @@
 ## How to make it spicey:
 
 6. Add some peppers. 
+7. Eat!
