@@ -19,6 +19,5 @@
 ## How to make it spicey:
 
 6. Add some peppers. 
-<<<<<<< HEAD
 7. Eat!
 8. After eating , wash the dishes please :)
