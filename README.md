@@ -15,3 +15,7 @@
 3. Add all the chopped Tomatoes.
 4. Cook for 20min. You can cook the pasta in this time.
 5. Add spices after taste and serve immediately!
+
+## How to make it spicey:
+
+6. Add some peppers. 
