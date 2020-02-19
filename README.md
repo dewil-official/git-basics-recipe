@@ -20,7 +20,10 @@
 
 6. Add some peppers. 
 7. Eat & Edit!
+8. After eating , wash the dishes please :)
 
 ## Add some random Emojis (because i just learned how to do it):
 
 🐱‍👤🐱‍👤🐱‍👤🐱🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🧁🧃🏴‍☠️🤍
+
+
