@@ -32,3 +32,4 @@
     - Interactive Rebase
 - Cherry-pick
 - Reset (--hard)
+(- Stash ?)
