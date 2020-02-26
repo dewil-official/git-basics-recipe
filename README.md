@@ -25,3 +25,10 @@
 
 🐱‍👤🐱🐱‍🏍🧁🧃🏴‍☠️🤍👑🌭
 
+## Git Commands to try out:
+
+- Amend
+- Rebase
+    - Interactive Rebase
+- Cherry-pick
+- Reset (--hard)
